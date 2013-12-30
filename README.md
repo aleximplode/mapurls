@@ -47,3 +47,8 @@ Apple URL
 [Apple maps daddr param http maps prefix](http://maps.apple.com/maps?daddr=301+Front+St+W,+Toronto,+ON+M5V+2T6)
 
 [Apple maps daddr param http](http://maps.apple.com/?daddr=301+Front+St+W,+Toronto,+ON+M5V+2T6)
+
+
+Maps protocol
+---
+[Maps](maps://301+Front+St+W,+Toronto,+ON+M5V+2T6)
